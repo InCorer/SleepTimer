@@ -7,7 +7,7 @@ from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QSystemTrayIcon,
 import ctypes
 
 
-
+print('8 800 555 35 35')
 
 class MainWindow(QWidget):
     def __init__(self) -> None:
